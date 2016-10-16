@@ -10,7 +10,7 @@ APIs and technology used:
 - Android Service
 - JSON
 
-<img src="https://github.com/padlanau/Android-Nanodegree-Project-1-Spotify-Streamer-Stage-1-Stage2/blob/master/images/ic_launcher.png" width="248">
+<img src="https://github.com/padlanau/Android-Nanodegree-Project-1-Spotify-Streamer-Stage-1-Stage2/blob/master/images/ic_launcher.png" width="148">
 
 <img src="https://github.com/padlanau/Android-Nanodegree-Project-1-Spotify-Streamer-Stage-1-Stage2/blob/master/images/ss-01.png" width="248">
 
