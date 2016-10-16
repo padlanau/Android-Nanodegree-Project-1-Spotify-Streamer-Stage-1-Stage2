@@ -4,6 +4,7 @@ In this project, you will build an app, optimized for tablet, that displays an a
 
 APIs and technology used:
 
+- Spotify API
 - Android UI Fundamentals - Tablet
 - MediaPlayer API
 - Android Service
